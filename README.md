@@ -29,7 +29,7 @@ Die Abbildung der relationalen Tabellen auf RDF erfolgt mithilfe der D2RQ-Plattf
 
 ### MySQL-Datenbankstruktur
 Diese Abbildung zeigt das relationale Datenbankschema, das als Datenquelle dient.
-![MySQL Database](screenshots/Mysql_db.png)
+![MySQL Database](../screenshots/Mysql_db.png)
 
 ### Abfrage der Tabellen mittels SPARQL
 Diese Abbildung zeigt die Abfrage der relationalen Tabellen über SPARQL nach der RDF-Abbildung mithilfe von D2RQ.
